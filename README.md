@@ -1,7 +1,7 @@
 # MiAI_Intrusion_Warning
 Demo of Intrusion Warning with OpenCV & Yolo
 
-Link clip: https://youtu.be/NPKfvp0ZLbI<br>
+Link clip: https://youtu.be/fd0WrwnPhtg <br>
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
